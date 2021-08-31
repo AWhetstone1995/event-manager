@@ -1,0 +1,1 @@
+Serializing exercises. Filtering data and writing it to a file. Also, using ERBs template to customize an html file.
